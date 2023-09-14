@@ -1,0 +1,11 @@
+Instructions for setting up the project:
+    - Requires Python 3.x
+    - Requires PyQt5 GUI module (pip install pyqt5)
+    - The "data" folder should be in the same directory as the "main.py"
+
+Instructions for running the project:
+    - "python main.py" should run the project
+    - Create Quiz button enables the teacher mode, where you're able to create questions
+    - The export quiz button can be used to export the quiz and you can send the save file to the students
+    - Answer Quiz mode enables the student mode, where you can answer an exported quiz
+    - Once the quiz is submitted, your score would be shown as a percentage
